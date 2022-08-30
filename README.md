@@ -64,11 +64,10 @@ Building on the <cite><a href="https://khkhiu.github.io/project/SP-EDS/">Arduino
 
 The top half of the structure holds the solar panel. Servos will be held in a housing that will tilt the solar panel based on a timer in the PIC18 micro-controller.The bottom half holds a turbine for hydro power generation. The team opted to use a savonius turbine as it was the easies to integrate into the design. A dc motor was used to simulate a savonius turbine. 'Legs' where added to simulate floating.
 
-|![Structure side](https://khkhiu.github.io/assets/images/SP-EDS/Structure-side.png)|
-|![Structure side 2](https://khkhiu.github.io/assets/images/SP-EDS/Structure-side-2.png)|
+|![Structure side](/assets/images/SP-MAPP/Structure-side.png)|
 |<em>Side of structure.</em>|
 
-|![savonius turbine](https://khkhiu.github.io/assets/images/SP-EDS/Savonius-wind-turbine.jpg)|
-|<em>Example of savonius turbine</em>|
+|![savonius turbine](/assets/images/SP-MAPP/Turbine.png)|
+|<em>Turbine types</em>|
 
-<strong>Unfortunately, due to lack of proper backups, a number of project files were lost. Hence the abrupt and incomplete nature of this repo</strong>
+<strong>Unfortunately, due to lack of proper backups, a number of project files were lost. Hence the abrupt and incomplete nature of this post</strong>
