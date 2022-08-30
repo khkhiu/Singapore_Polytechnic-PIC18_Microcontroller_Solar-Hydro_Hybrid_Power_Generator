@@ -12,20 +12,20 @@
 
 Students were provided with the following items:
 
-|![Micro-controller board](https://khkhiu.github.io/assets/images/SP-MAPP/MCT_board.png)|
-|<em>Micro-controller board</em>|
+![Micro-controller board](https://khkhiu.github.io/assets/images/SP-MAPP/MCT_board.png)
+<em>Micro-controller board</em>
 
-|![LCD and keypad](https://khkhiu.github.io/assets/images/SP-MAPP/LCD-Keypad.png)|
-|<em>LCD and keypad board</em>|
+![LCD and keypad](https://khkhiu.github.io/assets/images/SP-MAPP/LCD-Keypad.png)
+<em>LCD and keypad board</em>
 
-|![General I/O board](https://khkhiu.github.io/assets/images/SP-MAPP/GIO_board.png)|
-|<em>General I/O board</em>|
+![General I/O board](https://khkhiu.github.io/assets/images/SP-MAPP/GIO_board.png)
+<em>General I/O board</em>
 
-|![7 Segment switch board](https://khkhiu.github.io/assets/images/SP-MAPP/7-Segmet-Switch_board.png)|
-|<em>7 Segment switch board</em>|
+![7 Segment switch board](https://khkhiu.github.io/assets/images/SP-MAPP/7-Segmet-Switch_board.png)
+<em>7 Segment switch board</em>
 
-|![Board example](https://khkhiu.github.io/assets/images/SP-MAPP/Board_example.png)|
-|<em>Example of boards(7 Segment switch board not shown)</em>|
+![Board example](https://khkhiu.github.io/assets/images/SP-MAPP/Board_example.png)
+<em>Example of boards(7 Segment switch board not shown)</em>
 
 ***
 
@@ -46,11 +46,11 @@ My team consisted of the following people, all of us were from Singapore Polytec
 
 Building on the <cite><a href="https://khkhiu.github.io/project/SP-EDS/">Arduino solar-wind hybrid system</a></cite> the team decided to create an improved solar-hydro hybrid system. The system propose adding an underwater turbine to floating solar panel farms. This will allow for the overall system to generate power 24/7 instead of only during the day.
 
-|![Floating solar farm](https://khkhiu.github.io/assets/images/SP-MAPP/Solar.jpg)|
-|<em>Floating solar far</em>|
+![Floating solar farm](https://khkhiu.github.io/assets/images/SP-MAPP/Solar.jpg)
+<em>Floating solar far</em>
 
-|![Underwater turbine](https://khkhiu.github.io/assets/images/SP-MAPP/hydro.jpg)|
-|<em>Underwater turbine</em>|
+![Underwater turbine](https://khkhiu.github.io/assets/images/SP-MAPP/hydro.jpg)
+<em>Underwater turbine</em>
 
 
 ***
@@ -59,15 +59,15 @@ Building on the <cite><a href="https://khkhiu.github.io/project/SP-EDS/">Arduino
 
 ***
 
-|![Structure overview](https://khkhiu.github.io/assets/images/SP-MAPP/Structure-Overview.png)|
-|<em>Top view of structure</em>|
+![Structure overview](https://khkhiu.github.io/assets/images/SP-MAPP/Structure-Overview.png)
+<em>Top view of structure</em>
 
 The top half of the structure holds the solar panel. Servos will be held in a housing that will tilt the solar panel based on a timer in the PIC18 micro-controller.The bottom half holds a turbine for hydro power generation. The team opted to use a savonius turbine as it was the easies to integrate into the design. A dc motor was used to simulate a savonius turbine. 'Legs' where added to simulate floating.
 
-|![Structure side](/assets/images/SP-MAPP/Structure-side.png)|
-|<em>Side of structure.</em>|
+![Structure side](https://khkhiu.github.io/assets/images/SP-MAPP/Structure-side.png)
+<em>Side of structure.</em>
 
-|![savonius turbine](/assets/images/SP-MAPP/Turbine.png)|
-|<em>Turbine types</em>|
+![savonius turbine](https://khkhiu.github.io/assets/images/SP-MAPP/Turbine.png)
+<em>Turbine types</em>
 
 <strong>Unfortunately, due to lack of proper backups, a number of project files were lost. Hence the abrupt and incomplete nature of this post</strong>
